@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/philippelo/Launchers-Quartzz-Games/releases/download/warmen/client-to-update.zip",
+	"newClientUrl" : "https://github.com/philippelo/Launchers-Quartzz-Games/releases/download/warmen1/Warmen.Evolution.v1321.zip",
 	"clientExecutable": "client.exe"
 }
